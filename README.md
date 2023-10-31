@@ -1,5 +1,8 @@
-# Holberton_Heros
+
+Holberton Heros
+
 Surving and thriving
+
 Vie Paula
 Josh L
 Michael I
