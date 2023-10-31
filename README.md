@@ -1,4 +1,11 @@
+#Holberton_Heroes
 
+A brief introduction to Group Contribution in Github.
+
+
+
+
+## Authors
 - Vie - [@ThatsVie](https://www.github.com/ThatsVie)
 - Nate - [@natewood2](https://www.github.com/natewood2)
 - Josh -[@joshualewis0124](https://www.github.com/joshualewis0124)
