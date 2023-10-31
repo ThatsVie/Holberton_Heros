@@ -1,0 +1,3 @@
+Nathan Wood
+
+Pushing and pulling becomes a lot easier. You can simply use the shorthand commands "git pull" and "git push" - instead of having to think about the exact parameters like in "git push origin dev". Even more importantly than being "easier", this also prevents you from making mistakes!
