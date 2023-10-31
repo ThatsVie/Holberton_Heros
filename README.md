@@ -1,1 +1,12 @@
-you can view the fancy HTML page [here](./index.html).
+Holberton Heros
+
+Surving and thriving
+
+Vie Paula
+Josh L
+Michael I
+Nathan W
+Nolan X
+Sean M 
+Junius W
+>>>>>>> main
